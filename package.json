@@ -1,0 +1,50 @@
+{
+    "name": "zoko-theme",
+    "displayName": "Zoko Theme",
+    "description": "A modern dark theme for all coders out there.",
+    "version": "0.0.1",
+    "publisher": "daniel-lvovsky",
+    "author":{
+        "name": "Daniel Lvovsky"
+    },
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "bugs": {
+        "url": "https://github.com/DanielLvovsky/ZokoTheme"
+    },
+    "repository": {
+        "url": "https://github.com/DanielLvovsky/ZokoTheme/issues"
+    },
+    "galleryBanner": {
+        "color": "#0D141F",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Zoko Theme",
+        "Dark Theme",
+        "VS Code Theme",
+        "Modern",
+        "Dark Mode",
+        "Daniel Lvovsky",
+        "dark blue",
+        "yellow",
+        "blue",
+        "dark",
+        "biege",
+        "white"
+    ],
+    "icon":"images/icon/logo.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zoko",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zoko-color-theme.json"
+            }
+        ]
+    }
+}
