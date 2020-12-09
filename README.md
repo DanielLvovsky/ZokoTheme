@@ -27,6 +27,8 @@ Zoko is a custom dark theme for vs studio code.
 - ![#090b0f](https://via.placeholder.com/15/090b0f/000000?text=+) `#090b0f`
 
 
+
+
 ### Installation Instructions
 * Open the extensions sidebar on Visual Studio Code.
 * Search for the Zoko Theme.
@@ -36,6 +38,14 @@ Zoko is a custom dark theme for vs studio code.
 
 ### Issues & Suggestions
 * For any issues or suggestions, please go here [Github Repo](https://github.com/DanielLvovsky/ZokoTheme/issues)
+
+---
+
+
+### ⭐ Update 0.0.2
+* Updated the statusBar color when no folder is opened.
+
+---
 
 
 **Enjoy!**
